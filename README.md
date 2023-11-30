@@ -32,7 +32,7 @@ To run this project locally, you need to have Node.js, MongoDB, and Firebase ins
 
 ## Demo
 
-You can view a live demo of the project here: Job Portal
+You can view a live demo of the project here: [Job Portal](https://github.com/divyanshkumar5/Job-portal/)
 
 ## License
 
