@@ -36,4 +36,4 @@ You can view a live demo of the project here: Job Portal
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the [LICENSE](https://readme.so/) file for details.
