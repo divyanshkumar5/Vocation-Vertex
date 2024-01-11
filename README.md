@@ -1,6 +1,6 @@
-# Job Portal
+# Vocation Vertex
 
-Job Portal is a web application that allows users to search and apply for jobs, and employers to post and manage job listings.
+Vocation Vertex is a web application that allows users to search and apply for jobs, and employers to post and manage job listings.
 
 ## Features
 
@@ -23,8 +23,8 @@ Job Portal is a web application that allows users to search and apply for jobs, 
 
 To run this project locally, you need to have Node.js, MongoDB, and Firebase installed on your machine.
 
-1. Clone this repository: `git clone https://github.com/divyanshkumar5/Job-portal.git`
-2. Navigate to the project folder: `cd Job-portal`
+1. Clone this repository: `git clone https://github.com/divyanshkumar5/Vocation-Vertexgit`
+2. Navigate to the project folder: `cd Vocation-Vertex`
 3. Install the dependencies: `npm install`
 4. Create a `.env` file and add your environment variables (see `.env.example` for reference)
 5. Start the server: `npm start`
@@ -32,7 +32,7 @@ To run this project locally, you need to have Node.js, MongoDB, and Firebase ins
 
 ## Demo
 
-You can view a live demo of the project here: [Job Portal](https://github.com/divyanshkumar5/Job-portal/)
+You can view a live demo of the project here: [Job Portal](https://github.com/divyanshkumar5/Vocation-Vertex/)
 
 ## License
 
